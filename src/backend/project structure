@@ -1,0 +1,17 @@
+creatiConnect-backend/
+├── server.js
+├── package.json
+├── config/
+│   └── db.js
+├── models/
+│   ├── User.js
+│   ├── Portfolio.js
+│   └── Project.js
+├── routes/
+│   ├── userRoutes.js
+│   ├── portfolioRoutes.js
+│   └── projectRoutes.js
+└── controllers/
+    ├── userController.js
+    ├── portfolioController.js
+    └── projectController.js

@@ -19,7 +19,7 @@ export default function Header({onAddClick}) {
             <div className="flex items-center gap-x-10">
                 <NavLink to="/">Home</NavLink>
                 <NavLink>Assets</NavLink>
-                <NavLink>Jobs</NavLink>
+                <NavLink to="/jobs">Jobs</NavLink>
                 
                 <div className="relative">
                     <input 
